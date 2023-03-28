@@ -1,5 +1,5 @@
 ### Hello World!! I'm [Tanzila]
-I am an experienced Mid Level SQA Engineer with approximately 5 years of Manual and Automation Test Experience with a strong understanding of Software Development Life Cycle, SQA and Agile methodology. I am also proficient in developing test cases, test plans, and other required test documentation.<br>
+I am an experienced SQA Engineer with approximately 5 years of Manual and Automation Test Experience.I have a strong understanding of Software Development Life Cycle, SQA and Agile methodologies. I am also proficient in developing test cases, test plans, and other required test documentation.<br>
 
 
 <!--
